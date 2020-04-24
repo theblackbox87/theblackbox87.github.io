@@ -1,0 +1,16 @@
+header{
+  display: flex;
+  justify-content: center;
+  height: 195px;
+  align-items: center;
+  flex-direction: column;
+}
+
+header h1{
+  font-size: 48px;
+}
+
+nav p{
+  display: inline-block;
+  padding-top: 32px ;
+}
