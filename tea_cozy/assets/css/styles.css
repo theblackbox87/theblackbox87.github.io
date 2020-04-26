@@ -1,3 +1,7 @@
+a{
+  color:white;
+}
+
 body{
   background-color: black;
   color: white;
@@ -148,6 +152,13 @@ footer{
   text-align:left;
 }
 
+
+@media only screen and (max-width:658px){
+  .card{
+    width: 100%;
+    height: auto;
+  }
+}
 
 
 @media only screen and (max-width:650px){
